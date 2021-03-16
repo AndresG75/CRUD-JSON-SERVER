@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Si",
+      "email": "correo2@correo.com",
+      "telefono": "0424",
+      "empresa": "12212",
+      "id": 26
+    },
+    {
+      "nombre": "El pibe",
+      "email": "juan.esev17@outlook.com",
+      "telefono": "7866315963",
+      "empresa": "xd",
+      "id": 27
+    },
+    {
+      "nombre": "Vladimir",
+      "email": "vladimir@vladimir.com",
+      "telefono": "7866315963",
+      "empresa": "xd",
+      "id": 28
+    },
+    {
+      "nombre": "MORELIA BNC",
+      "email": "juan@juan.com",
+      "telefono": "2333",
+      "empresa": "Corp",
+      "id": 29
+    },
+    {
+      "nombre": "XDDDDDDDD",
+      "email": "XD@XD",
+      "telefono": "2781873",
+      "empresa": "XD",
+      "id": 30
+    }
+  ]
+}
